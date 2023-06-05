@@ -1,6 +1,7 @@
 #Ingredients
 -Lime
--Salt
+-Sugar
+-pepper
 -Avocado
 #Instructions
 1. Peel avocado 
